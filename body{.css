@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: verdena;
+}
+
+h1.inset {
+    border-style: groove;
+    border-width: 3px;
+    border-color: rgb(150, 94, 255);
+}
+
+#z {
+    color: rgb(255, 255, 255);
+}
